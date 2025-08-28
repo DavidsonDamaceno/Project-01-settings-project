@@ -1,6 +1,7 @@
 const form = document.querySelector(".formulario");
 const mascara = document.querySelector(".mascara-formulario");
 
+
 function clique() {
     form.style.left = "50%";
     form.style.transform = "translateX(-50%)";
